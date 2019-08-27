@@ -1,0 +1,2 @@
+# AfriSN
+AfriSn-Monthly
